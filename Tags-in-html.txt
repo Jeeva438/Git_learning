@@ -1,0 +1,76 @@
+TAGS IN HTML:
+
+1 Basic HTML tags
+
+ 1 <!DOCTYPE> Defines the version
+ 2 <html> Root of html file
+ 3 <body> container
+ 4 <h1> to <h6> Heading
+ 5 <br> Line break
+ 6 <!-- ..... --> Comment
+ 7 <p> Paragraph
+ 8 <hr> Horizontal line
+
+2 Formatting tags
+
+ 1 <b> Bold text
+ 2 <strong> Important text
+ 3 <i> Italic form
+ 4 <em> Emphasis on the text
+ 5 <u> Underlines the text
+ 6 <sup> Superscripted text
+ 7 <sub> Subscripted text
+ 8 <pre> Preformatted text
+ 9 <small> Smaller text
+ 10 <abbr> Abbreviation or an acronym
+ 11 <code> Computer code
+ 12 <kbd> Keyboard input
+ 13 <del> The text that has been removed from the webpage
+ 14 <ins> New word inserted
+ 15 <mark> Highlight text
+ 16 <blockquote> Quotation of a text from another source
+ 17 <s> Inncorrect text 
+ 18 <address> Address or contact 
+ 19 <cite> Title of other works
+ 20 <dfn> Defintion of word
+ 21 <meter> Meter scale with a given range and shows the current value
+ 22 <progress> Represents the progress 
+ 23 <q> Creates quotations
+ 24 <samp> Sample output 
+ 25 <template> Hide a block of code when the page loads
+ 26 <time> Time 
+ 27 <var> Define some variable in a computer program or in a mathematical expression
+
+3. Image tags
+
+1 <img> Defines image 
+2 <figure> Self-contained container for images, code snippets, diagrams, etc
+3 <figcaption> Caption for the <figure>
+4 <picture>	Provide multiple resources for an image
+5 <area> Area inside the image using coordinates
+6 <map> Creates a clickable area
+7 <canvas> Area to draw something on the webpage using javascript
+8 <svg> Container for SVG image
+
+4. Link tags
+
+1 <a>	Hyperlink to connect to other webpages
+2 <link> Connects other document with HTML documents or defines some relationship
+3 <nav> Wrap navigation links
+
+5 List tags
+
+1 <ol> Ordered list
+2 <ul> Unordered list
+3 <li> Item in a list
+4 <dl> Description list
+5 <dt> Name or term in description list
+6 <dd> Description of item in the description list
+
+6 Form and Input tags
+7 Table tags
+8 Media tags
+9 Meta tags
+10 Style and Programming tags
+11 General tags
+
